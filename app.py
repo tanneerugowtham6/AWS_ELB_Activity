@@ -1,3 +1,4 @@
+# This is the start of the currency converter application
 from flask import Flask, jsonify
 
 app = Flask(__name__)
